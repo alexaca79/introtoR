@@ -114,7 +114,7 @@ if (!require('plotly')) install.packages('plotly'); library('plotly')
 
 ### GIS Funtionality 
 
-####Leaflet 
+#### Leaflet 
 
 For all your web maping needs. Use Leaflet 
 
@@ -123,7 +123,7 @@ if (!require('Leaflet')) install.packages('Leaflet'); library('Leaflet')
 
 ```
 
-####rgdal 
+#### rgdal 
 
 Need to change a spatial projection? rgdal is for you!
 
@@ -136,7 +136,7 @@ if (!require('rgdal')) install.packages('rgdal'); library('rgdal')
 
 ### Web Scraping 
 
-####rvest 
+#### rvest 
 
 Scrape websites of their precious precious information using rvest
 
