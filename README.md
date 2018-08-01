@@ -1,7 +1,4 @@
----
-title: "Intro to R"
-output: html_document
----
+
 
 R is a programing language that is geared towards statistics. From summary stats to machine learning to data visualizations, R most likely has a package that does all those things. 
 
