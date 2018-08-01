@@ -17,6 +17,9 @@ Here is a sample of R resources that I've found most useful.
 
 ## Installation  
 
+R from CRAN: https://cloud.r-project.org/bin/windows/ 
+
+Intergrated Development Environment Rstudio: https://www.rstudio.com/products/rstudio/download/#download 
 
 ## You have just started programing and are a bit lost and you really like a Graphical User Interface(GUI)
 
