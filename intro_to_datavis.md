@@ -1,10 +1,14 @@
-# So you think you want to data viusualize things. 
+# So you think you want to data visualize things. 
 
-## read some Tufte (Or manybe just a really good summary paper) 
+Data visualization is a key part of any stats nerd's toolkit. 
+
+Turning numbers into images so people care about what you are talking about 
+
+## read some Tufte (Or maybe just a really good summary paper) 
 
 http://www2.cs.uregina.ca/~rbm/cs100/notes/spreadsheets/tufte_paper.html
 
-### If you really want to get into the weeds, he hated powerpoint. Look at it [here](https://github.com/alexaca79/introtoR/blob/master/tufte-powerpoint.pdf)
+### If you really want to get into the weeds, he hated PowerPoint. Look at it [here](https://github.com/alexaca79/introtoR/blob/master/tufte-powerpoint.pdf)
 
 https://www.inf.ed.ac.uk/teaching/courses/pi/2016_2017/phil/tufte-powerpoint.pdf 
 
